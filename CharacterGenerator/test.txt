@@ -1,0 +1,49 @@
+Here are test's ability rolls.
+
+Rolling 3d6 twelve times....
+----------------------------
+1 : 6 6 3 = 15
+2 : 5 1 5 = 11
+3 : 6 4 4 = 14
+4 : 4 2 1 = 7
+5 : 5 6 4 = 15
+6 : 6 4 3 = 13
+7 : 4 5 6 = 15
+8 : 4 1 5 = 10
+9 : 4 6 6 = 16
+10 : 1 6 5 = 12
+11 : 3 5 6 = 14
+12 : 2 2 2 = 6
+-----------------------------
+NAME-- test   RACE-- Human   CLASS-- Wizard   LEVEL-- 1   AGE-- 20
+
+SEX-- Female   HEIGHT-- 4'9"   WEIGHT-- 176
+
+STR:  14   Bonus-  2
+DEX:  15   Bonus-  2
+CON:  15   Bonus-  2
+INT:  16   Bonus-  3
+WIS:  15   Bonus-  2
+CHA:  14   Bonus-  2
+COM:  13   Bonus-  1
+
+Hit Points =  6
+
+Skill points =  24
+
+Feats =  2
+
+Available ability points to spend =  0
+
+                Fortitude   Reflex   Will
+                -------------------------
+Saving Throws =     2          2      4
+
+				Spells per Day
+
+	0	1st	2nd	3rd	4th	5th	6th	7th	8th	9th
+
+	----------------------------------------------------------------------------
+
+1st	3	1	—	—	—	—	—	—	—	—
+

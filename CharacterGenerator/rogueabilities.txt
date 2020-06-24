@@ -1,0 +1,20 @@
+LV 1 - Sneak attack +1d6, Trapfinding
+Lv 2 - Evasion
+Lv 3 - Sneak attack +2d6, trap sense +1
+Lv 4 - Uncanny dodge
+Lv 5 - Sneak attack +3d6
+Lv 6 - Trap sense +2
+Lv 7 - Sneak attack +4d6
+Lv 8 - Improved uncanny dodge
+Lv 9 - Sneak attack +5d6, trap sense +3
+Lv 10 - Special ability
+Lv 11 - Sneak attack +6d6
+Lv 12 - Trap sense +4
+Lv 13 - Sneak attack +7d6, special ability
+Lv 14 - Nothing
+Lv 15 - Sneak attack +8d6, trap sense +5
+Lv 16 - Special ability
+Lv 17 - Sneak attack +9d6
+Lv 18 - Trap sense +6
+Lv 19 - Sneak attack +10d6, special ability
+Lv 20 - Nothing
