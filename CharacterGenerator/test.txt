@@ -1,0 +1,62 @@
+
+Here are test's ability rolls.
+
+Rolling 3d6 twelve times....
+----------------------------
+1 : 6 6 1 = 13
+2 : 5 3 6 = 14
+3 : 2 3 1 = 6
+4 : 4 5 6 = 15
+5 : 2 4 3 = 9
+6 : 1 2 3 = 6
+7 : 4 4 5 = 13
+8 : 1 6 3 = 10
+9 : 5 5 2 = 12
+10 : 3 2 5 = 10
+11 : 4 2 4 = 10
+12 : 6 5 3 = 14
+-----------------------------
+NAME-- test   RACE-- Elf   CLASS-- Rogue   LEVEL-- 9   AGE-- 119
+
+SEX-- Female   HEIGHT-- 5'0"   WEIGHT-- 122
+
+STR:  13   Bonus-  1
+DEX:  17   Bonus-  3
+CON:  12   Bonus-  1
+INT:  14   Bonus-  2
+WIS:  13   Bonus-  1
+CHA:  12   Bonus-  1
+COM:  10   Bonus-  0
+
+Hit Points =  43
+
+Skill points =  106
+
+Feats =  4
+
+Available ability points to spend =  2
+
+                Fortitude   Reflex   Will
+                -------------------------
+Saving Throws =     4          9      4
+
+Special Abilities
+-----------------
+LV 1 - Sneak attack +1d6, Trapfinding
+
+Lv 2 - Evasion
+
+Lv 3 - Sneak attack +2d6, trap sense +1
+
+Lv 4 - Uncanny dodge
+
+Lv 5 - Sneak attack +3d6
+
+Lv 6 - Trap sense +2
+
+Lv 7 - Sneak attack +4d6
+
+Lv 8 - Improved uncanny dodge
+
+Lv 9 - Sneak attack +5d6, trap sense +3
+
