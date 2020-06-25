@@ -93,9 +93,9 @@ while True:
             print("Rolling 3d6 ten times....", file=f)
             print("--------------------------", file=f)
         for i in range(10):
-            die_one = random.randrange(1, 7)
-            die_two = random.randrange(1, 7)
-            die_three = random.randrange(1, 7)
+            die_one = random.randint(1, 6)
+            die_two = random.randint(1, 6)
+            die_three = random.randint(1, 6)
             total = (die_one + die_two + die_three)
             with open(char_name, 'a') as f:
                 print("Roll-", i + 1, ": ", die_one, die_two, die_three, "=", total, file=f)
