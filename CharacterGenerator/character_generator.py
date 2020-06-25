@@ -1,5 +1,4 @@
 import random
-
 import cleric
 import fighter
 import rogue

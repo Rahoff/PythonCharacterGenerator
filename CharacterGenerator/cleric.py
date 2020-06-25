@@ -1,6 +1,5 @@
 """Create a Priest character"""
 import random
-
 import lvladjust
 import saves
 import size

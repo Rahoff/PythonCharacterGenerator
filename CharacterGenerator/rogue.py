@@ -1,6 +1,5 @@
 """Create a Rogue character"""
 import random
-
 import lvladjust
 import saves
 import size
