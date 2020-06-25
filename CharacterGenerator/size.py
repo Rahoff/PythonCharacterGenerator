@@ -1,5 +1,5 @@
-import random
 import math
+import random
 
 
 def compute_height(race, sex):

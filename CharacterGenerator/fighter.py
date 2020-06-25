@@ -1,5 +1,6 @@
 """Create a Fighter character"""
 import random
+
 import lvladjust
 import saves
 import size

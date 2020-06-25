@@ -1,6 +1,7 @@
 import random
-import fighter
+
 import cleric
+import fighter
 import rogue
 import wizard
 
