@@ -52,6 +52,7 @@ while True:
     while True:
         try:
             lvl = int(input("What level would you like to make? Enter 1 - 20: "))
+            print("")
             if 0 < lvl < 21:
                 break
             else:
