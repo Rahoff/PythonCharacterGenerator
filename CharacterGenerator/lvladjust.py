@@ -7,22 +7,45 @@ def hitpointsadj(con_bonus, lvl, job):
         hp = 10 + con_bonus
         if lvl > 1:
             for i in range(lvl - 1):
-                hp = hp + random.randint(1, 10) + con_bonus
+                y = random.randint(1, 10)
+                x = random.randint(1, 10)
+                if y > 3:
+                    hp = hp + y + con_bonus
+                else:
+                    hp = hp + x + con_bonus
+
     if job == 'Wizard':
         hp = 4 + con_bonus
         if lvl > 1:
             for i in range(lvl - 1):
-                hp = hp + random.randint(1, 4) + con_bonus
+                y = random.randint(1, 4)
+                x = random.randint(1, 4)
+                if y > 1:
+                    hp = hp + y + con_bonus
+                else:
+                    hp = hp + x + con_bonus
+
     if job == 'Cleric':
         hp = 8 + con_bonus
         if lvl > 1:
             for i in range(lvl - 1):
-                hp = hp + random.randint(1, 8) + con_bonus
+                y = random.randint(1, 8)
+                x = random.randint(1, 8)
+                if y > 3:
+                    hp = hp + y + con_bonus
+                else:
+                    hp = hp + x + con_bonus
+
     if job == 'Rogue':
         hp = 6 + con_bonus
         if lvl > 1:
             for i in range(lvl - 1):
-                hp = hp + random.randint(1, 6) + con_bonus
+                y = random.randint(1, 6)
+                x = random.randint(1, 6)
+                if y > 2:
+                    hp = hp + y + con_bonus
+                else:
+                    hp = hp + x + con_bonus
 
     return hp
 
