@@ -62,6 +62,7 @@ while True:
             print("Please enter a level from 1 - 20.")
 
     # Validate and format gender input
+
     sex = input("(M)ale or (F)emale? ")
     print("")
     while True:

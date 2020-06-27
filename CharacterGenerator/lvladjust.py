@@ -5,14 +5,18 @@ def hitpointsadj(con_bonus, lvl, job):
     hp = 0
     if job == 'Fighter':
         hp = 10 + con_bonus
+        print("Constitution Bonus - ", con_bonus)
+        print("First level HP - ", hp)
         if lvl > 1:
             for i in range(lvl - 1):
                 y = random.randint(1, 10)
                 x = random.randint(1, 10)
+                print("Level-", i + 2, ": Roll one=", y, " Roll 2=", x)
                 if y > 3:
                     hp = hp + y + con_bonus
                 else:
                     hp = hp + x + con_bonus
+                print("Level-", i+2, ": HP = ", hp)
 
     if job == 'Wizard':
         hp = 4 + con_bonus
