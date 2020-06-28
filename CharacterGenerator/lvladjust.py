@@ -12,7 +12,7 @@ def hitpointsadj(con_bonus, lvl, job):
                 y = random.randint(1, 10)
                 x = random.randint(1, 10)
                 print("Level-", i + 2, ": Roll one=", y, " Roll 2=", x)
-                if y > 3:
+                if y > 4:
                     hp = hp + y + con_bonus
                 else:
                     hp = hp + x + con_bonus
