@@ -86,12 +86,13 @@ def format_sheet(race, sex, job, name, abilities, char_name, lvl):
     weight = size.compute_weight(race, sex)
     save = saves.wizsaves(lvl)
     ability_incr = lvladjust.ability_increase(lvl)
+    gold = lvladjust.strt_gold(lvl)
 
     # print everything to the character file
     with open(char_name, 'a') as f:
         print("NAME--", name, "  RACE--", race, "  CLASS--", job, "  LEVEL--", lvl, "  AGE--", age, file=f)
         print("", file=f)
-        print("SEX--", sex, "  HEIGHT--", height, "  WEIGHT--", weight, file=f)
+        print("SEX--", sex, "  HEIGHT--", height, "  WEIGHT--", weight, " STARTING WEALTH--", gold, "GP", file=f)
         print("", file=f)
         print("STR: ", strength, "  Bonus- ", str_bonus, file=f)
         print("DEX: ", dex, "  Bonus- ", dex_bonus, file=f)

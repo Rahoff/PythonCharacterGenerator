@@ -1,43 +1,41 @@
 Here are t's ability rolls.
 
-Rolling 3d6 twelve times....
-----------------------------
-1 : 3 1 3 = 7
-2 : 3 3 6 = 12
-3 : 1 4 3 = 8
-4 : 2 4 6 = 12
-5 : 1 2 1 = 4
-6 : 2 5 4 = 11
-7 : 4 5 5 = 14
-8 : 1 1 5 = 7
-9 : 5 5 1 = 11
-10 : 3 6 2 = 11
-11 : 5 1 5 = 11
-12 : 3 2 6 = 11
------------------------------
-NAME-- t   RACE-- Elf   CLASS-- Rogue   LEVEL-- 18   AGE-- 121
+Rolling 3d6 ten times....
+--------------------------
+Roll- 1 :  4 3 6 = 13
+Roll- 2 :  6 5 3 = 14
+Roll- 3 :  4 5 6 = 15
+Roll- 4 :  2 5 4 = 11
+Roll- 5 :  1 5 5 = 11
+Roll- 6 :  5 4 3 = 12
+Roll- 7 :  6 2 3 = 11
+Roll- 8 :  2 3 6 = 11
+Roll- 9 :  4 3 4 = 11
+Roll- 10 :  3 3 3 = 9
+--------------------------
+NAME-- t   RACE-- Elf   CLASS-- Rogue   LEVEL-- 17   AGE-- 130
 
-SEX-- Female   HEIGHT-- 5'1"   WEIGHT-- 95
+SEX-- Female   HEIGHT-- 5'0"   WEIGHT-- 100  STARTING WEALTH-- 100,000 GP
 
 STR:  11   Bonus-  0
-DEX:  16   Bonus-  3
-CON:  10   Bonus-  0
-INT:  12   Bonus-  1
-WIS:  11   Bonus-  0
+DEX:  17   Bonus-  3
+CON:  11   Bonus-  0
+INT:  14   Bonus-  2
+WIS:  12   Bonus-  1
 CHA:  11   Bonus-  0
 COM:  11   Bonus-  0
 
-Hit Points =  83
+Hit Points =  78
 
-Skill points =  174
+Skill points =  186
 
-Feats =  7
+Feats =  6
 
 Available ability points to spend =  4
 
                 Fortitude   Reflex   Will
                 -------------------------
-Saving Throws =     6          14      6
+Saving Throws =     5          13      6
 
 Special Abilities
 -----------------
@@ -74,6 +72,4 @@ Lv 15 - Sneak attack +8d6, trap sense +5
 Lv 16 - Special ability
 
 Lv 17 - Sneak attack +9d6
-
-Lv 18 - Trap sense +6
 
