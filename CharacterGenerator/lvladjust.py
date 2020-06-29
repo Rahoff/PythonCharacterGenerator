@@ -2,6 +2,7 @@ import random
 
 
 def hitpointsadj(con_bonus, lvl, job):
+    # Compute the hit points for any given class.
     hp = 0
     if job == 'Fighter':
         hp = 10 + con_bonus
@@ -78,6 +79,7 @@ def skillsadj(job, intel_bonus, lvl):
 
 
 def featadj(lvl, job, race):
+    # Computes how many feats the character get to pick/
     bonusfeats = 0
     start_feats = 1
 
@@ -102,6 +104,7 @@ def featadj(lvl, job, race):
 
 
 def ability_increase(lvl):
+    # This computes how man additional ability points for higher level characters
     abi_inc = 0
     for i in range(lvl):
         if (i + 1) % 4 == 0:
@@ -111,6 +114,7 @@ def ability_increase(lvl):
 
 
 def strt_gold(lvl):
+    # NPC starting gold from p 127 dm guide.
     strt_wealth = {1: 900, 2: 2000, 3: 2500, 4: 3300, 5: 4300, 6: 5600, 7: 7200,
                    8: 9400, 9: 12000, 10: 16000, 11: 21000, 12: 27000, 13: 35000,
                    14: 45000, 15: 59000, 16: 77000, 17: 100000, 18: 130000, 19: 170000,
