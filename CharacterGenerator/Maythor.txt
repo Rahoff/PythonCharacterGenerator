@@ -1,0 +1,40 @@
+Here are Maythor's ability rolls.
+
+Rolling 3d6 twelve times....
+----------------------------
+1 : 3 1 5 = 9
+2 : 2 4 3 = 9
+3 : 1 1 4 = 6
+4 : 1 1 5 = 7
+5 : 6 6 6 = 18
+6 : 6 3 4 = 13
+7 : 5 2 6 = 13
+8 : 4 6 1 = 11
+9 : 4 2 5 = 11
+10 : 1 5 2 = 8
+11 : 3 2 3 = 8
+12 : 3 6 1 = 10
+-----------------------------
+NAME-- Maythor   RACE-- Human   CLASS-- Fighter   LEVEL-- 14   AGE-- 16
+
+SEX-- Male   HEIGHT-- 5'2"   WEIGHT-- 174  STARTING WEALTH-- 45,000 GP
+
+STR:  18   Bonus-  4
+DEX:  13   Bonus-  1
+CON:  13   Bonus-  1
+INT:  11   Bonus-  0
+WIS:  11   Bonus-  0
+CHA:  10   Bonus-  0
+COM:  9   Bonus-  -1
+
+Hit Points =  128
+
+Skill points =  40
+
+Feats =  14
+
+Available ability points to spend =  3
+
+                Fortitude   Reflex   Will
+                -------------------------
+Saving Throws =     10          5      4
