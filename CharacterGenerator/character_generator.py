@@ -1,4 +1,7 @@
+import os
+import platform
 import random
+
 import cleric
 import fighter
 import rogue
@@ -149,6 +152,12 @@ while True:
     if job == 'Rogue':
         abilities = rogue.create_character(ability_list)
         rogue.format_sheet(race, sex, job, name, abilities, char_name, lvl)
+
+    # Detect platform and open the character sheet
+    if platform.system() == 'Darwin':
+        os.system("open " + char_name)
+    # elif platform.system() == 'win64' or platform.system() == 'win32':
+        # os.system("open notepad/" + char_name)
 
     # Loop through the program until the user is finished
     rerun = input("Would you like to make another? Y/N ")

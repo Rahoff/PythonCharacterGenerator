@@ -2,74 +2,37 @@ Here are t's ability rolls.
 
 Rolling 3d6 ten times....
 --------------------------
-Roll- 1 :  4 3 6 = 13
-Roll- 2 :  6 5 3 = 14
-Roll- 3 :  4 5 6 = 15
-Roll- 4 :  2 5 4 = 11
-Roll- 5 :  1 5 5 = 11
-Roll- 6 :  5 4 3 = 12
-Roll- 7 :  6 2 3 = 11
-Roll- 8 :  2 3 6 = 11
-Roll- 9 :  4 3 4 = 11
-Roll- 10 :  3 3 3 = 9
+Roll- 1 :  3 4 4 = 11
+Roll- 2 :  6 5 4 = 15
+Roll- 3 :  4 2 6 = 12
+Roll- 4 :  5 2 6 = 13
+Roll- 5 :  1 5 3 = 9
+Roll- 6 :  4 5 1 = 10
+Roll- 7 :  1 3 6 = 10
+Roll- 8 :  2 6 6 = 14
+Roll- 9 :  1 1 4 = 6
+Roll- 10 :  5 4 2 = 11
 --------------------------
-NAME-- t   RACE-- Elf   CLASS-- Rogue   LEVEL-- 17   AGE-- 130
+NAME-- t   RACE-- Human   CLASS-- Fighter   LEVEL-- 1   AGE-- 19
 
-SEX-- Female   HEIGHT-- 5'0"   WEIGHT-- 100  STARTING WEALTH-- 100,000 GP
+SEX-- Female   HEIGHT-- 4'11"   WEIGHT-- 149  STARTING WEALTH-- 900 GP
 
-STR:  11   Bonus-  0
-DEX:  17   Bonus-  3
-CON:  11   Bonus-  0
-INT:  14   Bonus-  2
-WIS:  12   Bonus-  1
+STR:  15   Bonus-  2
+DEX:  13   Bonus-  1
+CON:  14   Bonus-  2
+INT:  12   Bonus-  1
+WIS:  11   Bonus-  0
 CHA:  11   Bonus-  0
-COM:  11   Bonus-  0
+COM:  10   Bonus-  0
 
-Hit Points =  78
+Hit Points =  12
 
-Skill points =  186
+Skill points =  19
 
-Feats =  6
+Feats =  3
 
-Available ability points to spend =  4
+Available ability points to spend =  0
 
                 Fortitude   Reflex   Will
                 -------------------------
-Saving Throws =     5          13      6
-
-Special Abilities
------------------
-LV 1 - Sneak attack +1d6, Trapfinding
-
-Lv 2 - Evasion
-
-Lv 3 - Sneak attack +2d6, trap sense +1
-
-Lv 4 - Uncanny dodge
-
-Lv 5 - Sneak attack +3d6
-
-Lv 6 - Trap sense +2
-
-Lv 7 - Sneak attack +4d6
-
-Lv 8 - Improved uncanny dodge
-
-Lv 9 - Sneak attack +5d6, trap sense +3
-
-Lv 10 - Special ability
-
-Lv 11 - Sneak attack +6d6
-
-Lv 12 - Trap sense +4
-
-Lv 13 - Sneak attack +7d6, special ability
-
-Lv 14 - Nothing
-
-Lv 15 - Sneak attack +8d6, trap sense +5
-
-Lv 16 - Special ability
-
-Lv 17 - Sneak attack +9d6
-
+Saving Throws =     4          1      0
