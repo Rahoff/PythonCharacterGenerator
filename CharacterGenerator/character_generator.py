@@ -51,20 +51,19 @@ while True:
         race = 'Dwarf'
 
     # determine if character is an npc or a pc
-    wealth_type = input("Will this be an NPC or a PC? (Enter an N or a P ")
+    wealth_type = input("Will this be an NPC or a PC? (Enter an N or a P) ")
     print("")
     while True:
         if wealth_type.upper() == 'N' or wealth_type.upper() == 'P':
             break
         else:
-            wealth_type = input("Please enter either an N or a P")
+            wealth_type = input("Please enter either an N or a P: ")
     if wealth_type.upper() == 'N':
         wealth_type = 'NPC'
     else:
         wealth_type = 'PC'
 
     # choose a starting level
-
     while True:
         try:
             lvl = int(input("What level would you like to make? Enter 1 - 20: "))
@@ -72,10 +71,10 @@ while True:
             if 0 < lvl < 21:
                 break
             else:
-                print("Please enter a level from 1 - 20.")
+                print("Please enter a level from 1 - 20: ")
 
         except ValueError:
-            print("Please enter a level from 1 - 20.")
+            print("Please enter a level from 1 - 20: ")
 
     # Validate and format gender input
 
@@ -169,8 +168,8 @@ while True:
     # Detect platform and open the character sheet
     if platform.system() == 'Darwin':
         os.system("open " + char_name)
-    # elif platform.system() == 'win64' or platform.system() == 'win32':
-    # os.system("open notepad/" + char_name)
+    elif platform.system() == 'win64' or platform.system() == 'win32':
+        os.system("open notepad/" + char_name)
 
     # Loop through the program until the user is finished
     rerun = input("Would you like to make another? Y/N ")
