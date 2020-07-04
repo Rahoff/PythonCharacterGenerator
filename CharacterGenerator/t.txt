@@ -1,38 +1,75 @@
 Here are t's ability rolls.
 
-Rolling 3d6 ten times....
---------------------------
-Roll- 1 :  3 4 4 = 11
-Roll- 2 :  6 5 4 = 15
-Roll- 3 :  4 2 6 = 12
-Roll- 4 :  5 2 6 = 13
-Roll- 5 :  1 5 3 = 9
-Roll- 6 :  4 5 1 = 10
-Roll- 7 :  1 3 6 = 10
-Roll- 8 :  2 6 6 = 14
-Roll- 9 :  1 1 4 = 6
-Roll- 10 :  5 4 2 = 11
---------------------------
-NAME-- t   RACE-- Human   CLASS-- Fighter   LEVEL-- 1   AGE-- 19
+Rolling 3d6 twelve times....
+----------------------------
+1 : 2 6 1 = 9
+2 : 4 5 3 = 12
+3 : 5 5 3 = 13
+4 : 3 1 4 = 8
+5 : 4 3 2 = 9
+6 : 1 5 5 = 11
+7 : 5 6 6 = 17
+8 : 5 1 6 = 12
+9 : 1 1 1 = 3
+10 : 6 3 1 = 10
+11 : 1 1 6 = 8
+12 : 1 4 1 = 6
+-----------------------------
+NAME-- t   RACE-- Human   CLASS-- Cleric   LEVEL-- 14   AGE-- 21
 
-SEX-- Female   HEIGHT-- 4'11"   WEIGHT-- 149  STARTING WEALTH-- 900 GP
+SEX-- Male   HEIGHT-- 5'9"   WEIGHT-- 138  STARTING WEALTH-- 150,000 GP
 
-STR:  15   Bonus-  2
-DEX:  13   Bonus-  1
-CON:  14   Bonus-  2
+STR:  10   Bonus-  0
+DEX:  11   Bonus-  0
+CON:  12   Bonus-  1
 INT:  12   Bonus-  1
-WIS:  11   Bonus-  0
-CHA:  11   Bonus-  0
-COM:  10   Bonus-  0
+WIS:  17   Bonus-  3
+CHA:  13   Bonus-  1
+COM:  9   Bonus-  -1
 
-Hit Points =  12
+Hit Points =  104
 
-Skill points =  19
+Skill points =  58
 
-Feats =  3
+Feats =  6
 
-Available ability points to spend =  0
+Available ability points to spend =  3
 
                 Fortitude   Reflex   Will
                 -------------------------
-Saving Throws =     4          1      0
+Saving Throws =     10          4      12
+
+ 				    BASE SPELLS
+
+         0	1st	2nd	3rd	4th	5th	6th	7th	8th	9th
+
+-----------------------------------------------------------------------------------
+
+1st 	 3	1+1	—	—	—	—	—	—	—	— 
+
+2nd 	 4	2+1	—	—	—	—	—	—	—	—
+
+3rd 	 4	2+1	1+1	—	—	—	—	—	—	—
+
+4th 	 5	3+1	2+1	—	—	—	—	—	—	—
+
+5th 	 5	3+1	2+1	1+1	—	—	—	—	—	—
+
+6th 	 5	3+1	3+1	2+1	—	—	—	—	—	—
+
+7th 	 6	4+1	3+1	2+1	1+1	—	—	—	—	—
+
+8th 	 6	4+1	3+1	3+1	2+1	—	—	—	—	—
+
+9th 	 6	4+1	4+1	3+1	2+1	1+1	—	—	—	—
+
+10th 	 6	4+1	4+1	3+1	3+1	2+1	—	—	—	—
+
+11th 	 6	5+1	4+1	4+1	3+1	2+1	1+1	—	—	—
+
+12th 	 6	5+1	4+1	4+1	3+1	3+1	2+1	—	—	—
+
+13th 	 6	5+1	5+1	4+1	4+1	3+1	2+1	1+1	—	—
+
+14th 	 6	5+1	5+1	4+1	4+1	3+1	3+1	2+1	—	—
+

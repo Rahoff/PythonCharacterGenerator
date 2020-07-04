@@ -50,6 +50,19 @@ while True:
     if race.upper() == 'D':
         race = 'Dwarf'
 
+    # determine if character is an npc or a pc
+    wealth_type = input("Will this be an NPC or a PC? (Enter an N or a P ")
+    print("")
+    while True:
+        if wealth_type.upper() == 'N' or wealth_type.upper() == 'P':
+            break
+        else:
+            wealth_type = input("Please enter either an N or a P")
+    if wealth_type.upper() == 'N':
+        wealth_type = 'NPC'
+    else:
+        wealth_type = 'PC'
+
     # choose a starting level
 
     while True:
@@ -139,25 +152,25 @@ while True:
     # Choose what class to use
     if job == 'Wizard':
         abilities = wizard.create_character(ability_list)
-        wizard.format_sheet(race, sex, job, name, abilities, char_name, lvl)
+        wizard.format_sheet(race, sex, job, name, abilities, char_name, lvl, wealth_type)
 
     if job == 'Fighter':
         abilities = fighter.create_character(ability_list)
-        fighter.format_sheet(race, sex, job, name, abilities, char_name, lvl)
+        fighter.format_sheet(race, sex, job, name, abilities, char_name, lvl, wealth_type)
 
     if job == 'Cleric':
         abilities = cleric.create_character(ability_list)
-        cleric.format_sheet(race, sex, job, name, abilities, char_name, lvl)
+        cleric.format_sheet(race, sex, job, name, abilities, char_name, lvl, wealth_type)
 
     if job == 'Rogue':
         abilities = rogue.create_character(ability_list)
-        rogue.format_sheet(race, sex, job, name, abilities, char_name, lvl)
+        rogue.format_sheet(race, sex, job, name, abilities, char_name, lvl, wealth_type)
 
     # Detect platform and open the character sheet
     if platform.system() == 'Darwin':
         os.system("open " + char_name)
     # elif platform.system() == 'win64' or platform.system() == 'win32':
-        # os.system("open notepad/" + char_name)
+    # os.system("open notepad/" + char_name)
 
     # Loop through the program until the user is finished
     rerun = input("Would you like to make another? Y/N ")

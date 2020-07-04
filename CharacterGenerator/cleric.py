@@ -37,10 +37,9 @@ def compute_age(race):
     return age
 
 
-def format_sheet(race, sex, job, name, abilities, char_name, lvl):
+def format_sheet(race, sex, job, name, abilities, char_name, lvl, wealth_type):
     # Assign abilities rolls to the best ability for the class
     strength = abilities[5]
-
     con = abilities[3]
     dex = abilities[4]
     intel = abilities[2]
@@ -88,7 +87,7 @@ def format_sheet(race, sex, job, name, abilities, char_name, lvl):
     weight = size.compute_weight(race, sex)
     save = saves.clericsaves(lvl)
     ability_incr = lvladjust.ability_increase(lvl)
-    gold = lvladjust.strt_gold(lvl)
+    gold = lvladjust.strt_gold(lvl, wealth_type)
 
     # print everything to the character file
     with open(char_name, 'a') as f:
